@@ -28,7 +28,7 @@ The game board is displayed as a 3x3 grid of sub-boards, each with a 3x3 grid of
 8| . . . | . . . | . . . |
 9| . . . | . . . | . . . |
 --------------------------
-
+```
 
 ## AI Implementation
 
